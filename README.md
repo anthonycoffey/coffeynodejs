@@ -10,7 +10,7 @@ Step 1.
 
 Step 2.
 
-    express --css=ssss --view=ejs
+    express --css=sass --view=ejs
 
 
 
